@@ -209,15 +209,6 @@ public class game {
 
 
 
-            next = current.Upwards();
-            list.add(next(n.bx, n.by));
-            next = current.Right();
-            list.add(next(n.bx, n.by));
-            next = current.Downwards();
-            list.add(next(n.bx, n.by));
-            next = current.Left();
-            list.add(next(n.bx, n.by));
-
 
 
             //منشان طباعة الطريق بس يخلص
